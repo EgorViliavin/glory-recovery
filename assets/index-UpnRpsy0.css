@@ -272,7 +272,7 @@ header {
   height: 960px;
   flex-shrink: 0;
   background:
-    url(img/gradienta-uDaW2aMISB4-unsplash.png),
+    url('img/gradienta-uDaW2aMISB4-unsplash.png'),
     #010f29 0px 0px / 100% 100% no-repeat;
   background-repeat: no-repeat;
   background-size: cover;
@@ -382,7 +382,7 @@ header {
   justify-content: flex-start;
   align-items: flex-end;
   background:
-    url(/img/127075-metropoliya-stolica-neboskreb-gorodskoj_rajon-gorizont-1920x1080.jpg),
+    url('/img/127075-metropoliya-stolica-neboskreb-gorodskoj_rajon-gorizont-1920x1080.jpg'),
     #d3d3d3 0px 0px / 100% 100%;
   background-size: cover;
   background-position: center;
